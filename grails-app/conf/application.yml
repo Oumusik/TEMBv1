@@ -113,7 +113,6 @@ dataSource:
 environments:
     development:
         dataSource:
-            logSql: true
             dbCreate: update
             url: jdbc:postgresql://localhost:5432/temb
     test:

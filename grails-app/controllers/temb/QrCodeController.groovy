@@ -2,5 +2,8 @@ package temb
 
 class QrCodeController {
 
-    def index() { }
+
+    def index() {
+        render "some text"
+    }
 }
