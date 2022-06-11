@@ -21,6 +21,6 @@ class Person {
         phoneNumber size: 10, blank:false
         city blank: false
         address blank: false
-        password blank: false, min: 6, nullable: false, password
+        password blank: false, min: 6, nullable: false
     }
 }
